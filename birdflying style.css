@@ -1,0 +1,26 @@
+body {
+    background-color: #81B9D7;
+    height: 100vh;
+    width: 100%;
+
+    }
+
+#bird{
+    position: absolute;
+    height: 220px;
+    width: 220px;
+
+
+
+}
+
+#egg {
+    position: absolute;
+    height: 220px;
+    width: 220px;
+    visibility: ;
+
+
+
+
+}
